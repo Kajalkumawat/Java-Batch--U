@@ -1,0 +1,9 @@
+how to push :file inside the folder 
+
+when in the folder :cd .. 
+
+step 1:git add basic/hello.txt
+
+git commit -m "push"
+
+git push
